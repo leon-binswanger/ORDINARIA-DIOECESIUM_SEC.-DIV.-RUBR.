@@ -1188,7 +1188,7 @@ DESCRIPTION: Ss. Nerei, Achillei et Domitillæ Virg., atque Pancratii, Mm.,  \n 
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vigil von Christi Himmelfahrt (Bittag)
+SUMMARY:Vigil Christi Himmelfahrt (Bittag)
 UID:Liturgiekalender_20260513@introibo.net
 STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260513
@@ -1554,7 +1554,7 @@ DESCRIPTION: S. Paulini Ep. et Conf. \n 3. Klasse, Farbe: weiß
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vigil Johannes des Täufers
+SUMMARY:Vigil Geburt Johannes des Täufers
 UID:Liturgiekalender_20260623@introibo.net
 STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260623
@@ -1572,7 +1572,7 @@ DESCRIPTION: IN NATIVITATE S. IOANNIS BAPTISTÆ \n 1. Klasse, Farbe: weiß
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Wilhelm
+SUMMARY:Hl. Wilhelm von Vercelli
 UID:Liturgiekalender_20260625@introibo.net
 STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260625
@@ -1635,7 +1635,7 @@ DESCRIPTION: PRETIOSISSIMI SANGUINIS D.N.I.C \n 1. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mariä Heimsuchung
+SUMMARY:Mariä Heimsuchung (Priester-Donnerstag)
 UID:Liturgiekalender_20260702@introibo.net
 STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260702
