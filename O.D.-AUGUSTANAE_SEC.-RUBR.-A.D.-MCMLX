@@ -504,6 +504,7 @@ STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 DESCRIPTION:Feria IV Quattuor Temporum Quadragesimae \n 2. Klasse, Farbe: violett \n Fastentag (ohne Abstinenz).
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
@@ -521,6 +522,7 @@ STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 DESCRIPTION:Feria VI Quattuor Temporum Quadragesimae \n 2. Klasse, Farbe: violett \n Strenger Fast- und Abstinenztag.
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quatembersamstag (Fastentag)
@@ -529,6 +531,7 @@ STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260301
 DESCRIPTION:Sabbato Quattuor Temporum Quadragesimae \n 2. Klasse, Farbe: violett \n Fastentag (ohne Abstinenz).
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Fastensonntag
@@ -1320,6 +1323,7 @@ STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 DESCRIPTION:Feria IV Quattuor Temporum Pentecostes \n 1. Klasse, Farbe: rot \n Fastentag (ohne Abstinenz).
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pfingstdonnerstag
@@ -1337,6 +1341,7 @@ STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 DESCRIPTION:Feria VI Quattuor Temporum Pentecostes \n 1. Klasse, Farbe: rot \n Strenger Fast- und Abstinenztag.
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quatembersamstag (Fastentag)
@@ -1345,6 +1350,7 @@ STATUS:CONFIRMED
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 DESCRIPTION:Sabbato Quattuor Temporum Pentecostes \n 1. Klasse, Farbe: rot \n Fastentag (ohne Abstinenz).
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dreifaltigkeitssonntag
@@ -1995,1284 +2001,3288 @@ DESCRIPTION: S. Laurentii Mart. \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Tiburtius und Susanna)
-UID:Liturgiekalender_20260811@introibo.net
+SUMMARY:Oktavtag von Weihnachten
+UID:Liturgiekalender_20270101@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DESCRIPTION: OCTAVA NATIVITATIS DOMINI \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herz-Mariä-Sühne-Sa.
+UID:Liturgiekalender_20270102@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fest des allerheiligsten Namen Jesu
+UID:Liturgiekalender_20270103@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DESCRIPTION: SS.MI NOMINIS IESU \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270104@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Papst Telesphorus)
+UID:Liturgiekalender_20270105@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DESCRIPTION: De feria, Commemoratio S. Telesphori Papæ et Mart. \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epiphania Domini
+UID:Liturgiekalender_20270106@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DESCRIPTION: IN EPIPHANIA DOMINI \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priester-Do.
+UID:Liturgiekalender_20270107@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+DESCRIPTION: D.N. Iesu Christo summo et æterno Sacerdote \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270108@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria am Sa.
+UID:Liturgiekalender_20270109@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fest der hl. Familie
+UID:Liturgiekalender_20270110@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DESCRIPTION: SANCTÆ FAMILIÆ IESU, MARIÆ, IOSEPH \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Papst Hyginus)
+UID:Liturgiekalender_20270111@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DESCRIPTION: De feria, Commemoratio S. Hygini Papæ et Mart. \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270112@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gedächtnis der Taufe Jesu
+UID:Liturgiekalender_20270113@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+DESCRIPTION: In Commemoratione Baptismas D.N.I.C. \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hilarius
+UID:Liturgiekalender_20270114@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+DESCRIPTION: S. Hilarii Ep., Commemoratione S. Felicis Presb. et Mart. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paulus von Theben
+UID:Liturgiekalender_20270115@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DESCRIPTION: S. Pauli primi Eremitæ, Conf., Commemoratio S. Mauri Abb. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papst Marcellus I
+UID:Liturgiekalender_20270116@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DESCRIPTION: S. Marcelli I Papæ et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Sonntag n. Erscheinung
+UID:Liturgiekalender_20270117@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DESCRIPTION: DOMINICA SECUNDA post Epiphaniam \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Priska)
+UID:Liturgiekalender_20270118@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DESCRIPTION: De feria, Commemoratio S. Priscæ Virg. et Mart. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Marius, Martha)
+UID:Liturgiekalender_20270119@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+DESCRIPTION: De feria, Commemoratio Ss. Marii, Marthæ, Audifacis et Abachum Mm., Commemoratio S. Canuti Regis, Mart. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fabian u. Sebastian
+UID:Liturgiekalender_20270120@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+DESCRIPTION: Ss. Fabiani Papæ et Sebastiani Mm. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agnes
+UID:Liturgiekalender_20270121@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+DESCRIPTION: S. Agnes Virg. et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vinzenz u. Anastasius
+UID:Liturgiekalender_20270122@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+DESCRIPTION: Ss. Vincentii et Anastasii Mm. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raymund v. Peñaforte
+UID:Liturgiekalender_20270123@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DESCRIPTION: S. Raymundi de Peñafort Conf., Commemoraito S. Emerentianæ Virg. et Mart. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonntag Septuagesima
+UID:Liturgiekalender_20270124@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+DESCRIPTION: DOMINICA IN SEPTUAGESIMA \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bekehrung des Apostels Paulus
+UID:Liturgiekalender_20270125@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+DESCRIPTION: In Conversione S. Pauli Ap., Commemoratio S. Petri Ap. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polykarp
+UID:Liturgiekalender_20270126@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+DESCRIPTION: S. Polycarpi Ep. et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johannes Chrysostomus
+UID:Liturgiekalender_20270127@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+DESCRIPTION: S. Ioannis Chrysostomi Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petrus Nolascus
+UID:Liturgiekalender_20270128@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+DESCRIPTION: S. Petri Nolasci Conf., Commemoratio S Agnetis Virg. et Mart. secundo \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Franz von Sales
+UID:Liturgiekalender_20270129@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+DESCRIPTION: S. Francisci Salesii Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martina
+UID:Liturgiekalender_20270130@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DESCRIPTION: S. Martinæ Virg. et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonntag Sexagesima
+UID:Liturgiekalender_20270131@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DESCRIPTION: DOMINICA IN SEXAGESIMA \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ignatius von Antiochien
+UID:Liturgiekalender_20270201@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+DESCRIPTION: S. Ignatii Ep. et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mariä Lichtmess
+UID:Liturgiekalender_20270202@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+DESCRIPTION: In Purificatione B. Mariæ Virg. \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Blasius)
+UID:Liturgiekalender_20270203@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+DESCRIPTION: De feria, Commemoratio S. Blasii Ep. et Mart. \n 4. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andreas Corsini (Priester-Do.)
+UID:Liturgiekalender_20270204@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+DESCRIPTION: S. Andreae Corsini Ep. et Conf., D.N. Iesu Christo summo et æterno Sacerdote \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agatha (Herz-Jesu-Fr.)
+UID:Liturgiekalender_20270205@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+DESCRIPTION: S. Agathæ Virg. et Mart., Ssmo Corde Iesu \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Titus (Herz-Mariä-Sühne-Sa.)
+UID:Liturgiekalender_20270206@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DESCRIPTION: S. Titi Ep. et Conf., Commemoratio S. Dorotheæ Virg. et Mart., S. MARIA In Sabbato \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonntag Quinquagesima
+UID:Liturgiekalender_20270207@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DESCRIPTION: DOMINICA IN QUINQUAGESIMA \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johannes von Matha
+UID:Liturgiekalender_20270208@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+DESCRIPTION: S. Ioannis de Matha Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cyrill von Alexandrien
+UID:Liturgiekalender_20270209@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+DESCRIPTION: S. Cyrilli Ep. Alex., Conf. et Eccl. Doct., Commemoratio S. Apolloniæ Virg. et Mart. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aschermittwoch
+UID:Liturgiekalender_20270210@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+DESCRIPTION: Feria quarta cinerum \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Unsere liebe Frau von Lourdes)
+UID:Liturgiekalender_20270211@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+DESCRIPTION: De feria, In Apparitione B. Mariæ Virg. Immaculatæ \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (7 Stifter des Servitenordens)
+UID:Liturgiekalender_20270212@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+DESCRIPTION: De feria, Ss. septem Fundatirum Ordinis Servorum B. Mariæ Virg., Confessorum \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270213@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Fastensonntag
+UID:Liturgiekalender_20270214@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DESCRIPTION: DOMINICA I IN QUADRAGESIMA \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270215@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270216@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quatember-Mittwoch
+UID:Liturgiekalender_20270217@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+DESCRIPTION: FERIA QUARTA Quatuor Temporum Quadragesimæ \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270218@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quatember-Freitag
+UID:Liturgiekalender_20270219@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+DESCRIPTION: FERIA SEXTA Quatuor Temporum Quadragesimæ \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quatember-Samstag
+UID:Liturgiekalender_20270220@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DESCRIPTION: SABBATO Quatuor Temporum Quadragesimæ \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Fastensonntag
+UID:Liturgiekalender_20270221@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DESCRIPTION: DOMINICA II IN QUADRAGESIMA \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petri Stuhlfeier
+UID:Liturgiekalender_20270222@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+DESCRIPTION: Cathedræ S. Petri Ap., Commemoratio S. Pauli Ap. \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Petrus Damiani)
+UID:Liturgiekalender_20270223@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+DESCRIPTION: De feria, S. Petri Damiani Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apostel Matthias
+UID:Liturgiekalender_20270224@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+DESCRIPTION: S. Matthiæ Ap. \n 2. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270225@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270226@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Gabriel Possenti)
+UID:Liturgiekalender_20270227@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+DESCRIPTION: De feria, S. Gabrielis a Virgine Perdolente, Conf. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Fastensonntag
+UID:Liturgiekalender_20270228@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+DESCRIPTION: DOMINICA III IN QUADRAGESIMA \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270301@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270302@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270303@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Kasimir)
+UID:Liturgiekalender_20270304@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+DESCRIPTION: De feria, S. Casimiri Conf., Commemoratio S. Lucii I Papæ et Mart. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270305@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Perpetua u. Felicitas)
+UID:Liturgiekalender_20270306@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+DESCRIPTION: De feria, Ss. Perpetuæ et Felicitatis Mm. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonntag Laetare
+UID:Liturgiekalender_20270307@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+DESCRIPTION: DOMINICA IV IN QUADRAGESIMA \n 1. Klasse, Farbe: rosa
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Johannes von Gott)
+UID:Liturgiekalender_20270308@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+DESCRIPTION: De feria, S. Ioannis a Deo Conf. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Franziska von Rom)
+UID:Liturgiekalender_20270309@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+DESCRIPTION: De feria, S. Franciscæ Romanæ Vid. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (40 Martyrer von Sebaste)
+UID:Liturgiekalender_20270310@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+DESCRIPTION: De feria, Ss. Quadraginta Martyrum \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270311@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Papst Gregor I.)
+UID:Liturgiekalender_20270312@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DESCRIPTION: De feria, S. Gregorii I Papæ, Conf. et Eccl. Doct. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270313@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passionssonntag
+UID:Liturgiekalender_20270314@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DESCRIPTION: DOMINICA I PASSIONIS \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270315@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270316@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Patrick)
+UID:Liturgiekalender_20270317@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+DESCRIPTION: De feria, S. Patricii Ep. et Conf. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Cyrill v. Jerusalem)
+UID:Liturgiekalender_20270318@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+DESCRIPTION: De feria, S. Cyrilli Ep. Hierosolymitani, Conf. et Eccl. Doct. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fest des hl. Joseph
+UID:Liturgiekalender_20270319@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DESCRIPTION: S. IOSEPH, SPONSI B. MARIÆ VIRG., Conf. et Eccl. univ. Patroni \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270320@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palmsonntag
+UID:Liturgiekalender_20270321@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DESCRIPTION: DOMINICA II PASSIONIS SEU IN PALMIS \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montag in der Karwoche
+UID:Liturgiekalender_20270322@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DESCRIPTION: Feria secunda Hebdomadæ sanctæ \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dienstag in der Karwoche
+UID:Liturgiekalender_20270323@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+DESCRIPTION: Feria tertia Hebdomadæ sanctæ \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittwoch in der Karwoche
+UID:Liturgiekalender_20270324@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+DESCRIPTION: Feria quarta Hebdomadæ sanctæ \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gründonnerstag
+UID:Liturgiekalender_20270325@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+DESCRIPTION: FERIA QUINTA - IN CENA DOMINI \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag
+UID:Liturgiekalender_20270326@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DESCRIPTION: FERIA SEXTA - IN PASSIONE ET MORTE DOMINI \n 1. Klasse, Farbe: schwarz
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karsamstag
+UID:Liturgiekalender_20270327@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+DESCRIPTION: SABBATO SANCTO \n 1. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostern
+UID:Liturgiekalender_20270328@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DESCRIPTION: DOMINICA RESURRECTIONIS \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag
+UID:Liturgiekalender_20270329@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+DESCRIPTION: FERIA II INFRA OCTAVAM PASCHÆ \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osterdienstag
+UID:Liturgiekalender_20270330@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+DESCRIPTION: FERIA III INFRA OCTAVAM PASCHÆ \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermittwoch
+UID:Liturgiekalender_20270331@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+DESCRIPTION: FERIA IV INFRA OCTAVAM PASCHÆ \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osterdonnerstag
+UID:Liturgiekalender_20270401@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+DESCRIPTION: FERIA V INFRA OCTAVAM PASCHÆ \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osterfreitag
+UID:Liturgiekalender_20270402@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+DESCRIPTION: FERIA VI INFRA OCTAVAM PASCHÆ \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostersamstag
+UID:Liturgiekalender_20270403@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+DESCRIPTION: Sabbato in albis \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weisser Sonntag
+UID:Liturgiekalender_20270404@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DESCRIPTION: DOMINICA IN ALBIS \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mariä Verkündigung (Nachgeholt)
+UID:Liturgiekalender_20270405@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+DESCRIPTION: ANNUNTIATIO B. MARIÆ VIRG. \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270406@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270407@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270408@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270409@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria am Sa.
+UID:Liturgiekalender_20270410@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Sonntag nach Ostern
+UID:Liturgiekalender_20270411@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DESCRIPTION: DOMINICA SECUNDA post Pascha \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270412@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hermenegild
+UID:Liturgiekalender_20270413@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+DESCRIPTION: S. Hermenegildi Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Justin
+UID:Liturgiekalender_20270414@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+DESCRIPTION: S. Iustini Mart., Commemoratio Ss. Tiburtii, Valeriani et Maximi Mm. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270415@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270416@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Papst Anizet)
+UID:Liturgiekalender_20270417@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+DESCRIPTION: De feria, Commemoratio S. Aniceti Papæ et Mart. \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Sonntag nach Ostern
+UID:Liturgiekalender_20270418@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+DESCRIPTION: DOMINICA TERTIA post Pascha \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270419@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270420@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+DESCRIPTION: De feria \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anselm
+UID:Liturgiekalender_20270421@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+DESCRIPTION: S. Anselmi Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Päpste Soter und Cajus
+UID:Liturgiekalender_20270422@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+DESCRIPTION: Ss. Soteris et Caii Pp. et Mm. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Georg)
+UID:Liturgiekalender_20270423@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DESCRIPTION: De feria, Commemoratio S. Georgii Mart. \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fidelis von Sigmaringen
+UID:Liturgiekalender_20270424@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+DESCRIPTION: S. Fidelis de Sigmaringa Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Sonntag nach Ostern
+UID:Liturgiekalender_20270425@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DESCRIPTION: DOMINICA QUARTA post Pascha \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cletus und Marcellinus
+UID:Liturgiekalender_20270426@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+DESCRIPTION: Ss. Cleti et Marcellini Pp. et Mm. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petrus Canisius
+UID:Liturgiekalender_20270427@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+DESCRIPTION: S. Petri Canisii Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paul vom Kreuz
+UID:Liturgiekalender_20270428@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+DESCRIPTION: S. Pauli a Cruce Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petrus von Verona
+UID:Liturgiekalender_20270429@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+DESCRIPTION: S. Petri Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katharina von Siena
+UID:Liturgiekalender_20270430@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+DESCRIPTION: S. Catharinæ Senensis Virg. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joseph der Arbeiter
+UID:Liturgiekalender_20270501@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DESCRIPTION: S. IOSEPH OPIFICIS, SPONSI B. MARIÆ VIRG., Conf. \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Sonntag nach Ostern
+UID:Liturgiekalender_20270502@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DESCRIPTION: DOMINICA QUINTA post Pascha \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Alexander und Gefährten)
+UID:Liturgiekalender_20270503@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+DESCRIPTION: De feria, Commemoratio Ss. Alexandri, Eventii et Theodult Mm., ac S. Iuvenalis Ep. et Conf. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monika (Bittag)
+UID:Liturgiekalender_20270504@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DESCRIPTION: S. Monicæ Vid.,  \n 3. Klasse, Farbe: weiss/violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigil von Christi Himmelfahrt (Bittag)
+UID:Liturgiekalender_20270505@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+DESCRIPTION: IN VIGILIA ASCENSIONIS \n 2. Klasse, Farbe: weiss/violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt
+UID:Liturgiekalender_20270506@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DESCRIPTION: IN ASCENSIONE DOMINI \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stanislaus (Herz-Jesu-Fr.)
+UID:Liturgiekalender_20270507@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DESCRIPTION: S. Stanislai Ep. et Mart., Ssmo Corde Iesu \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria am Sa.
+UID:Liturgiekalender_20270508@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonntag nach Himmelfahrt
+UID:Liturgiekalender_20270509@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DESCRIPTION: DOMINICA post Ascensionem \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antoninus
+UID:Liturgiekalender_20270510@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+DESCRIPTION: S. Antonini Ep. et Conf., Commemoratio Ss. Gordiani et Epimachi Mm. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apostel Philippus und Jakobus
+UID:Liturgiekalender_20270511@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+DESCRIPTION: Ss. Philippi et Iacobi App. \n 2. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nereus, Achilleus, Domitilla, Pankratius
+UID:Liturgiekalender_20270512@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+DESCRIPTION: Ss. Nerei, Achillei et Domitillæ Virg., atque Pancratii, Mm. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Bellarmin
+UID:Liturgiekalender_20270513@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+DESCRIPTION: S. Roberti Bellarmino Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Bonifatius v. Tarsus)
+UID:Liturgiekalender_20270514@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+DESCRIPTION: De feria, Commemoratio S. Bonifatii Mart. \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstvigil
+UID:Liturgiekalender_20270515@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DESCRIPTION: Sabbato in vigilia Pentecostes \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstsonntag
+UID:Liturgiekalender_20270516@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DESCRIPTION: DOMINICA PENTECOSTES \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag
+UID:Liturgiekalender_20270517@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+DESCRIPTION: FERIA SECUNDA INFRA OCTAVAM PENTECOSTES \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstdienstag
+UID:Liturgiekalender_20270518@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+DESCRIPTION: Feria III infra octavam Pentecostes \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quatember-Mittwoch
+UID:Liturgiekalender_20270519@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DESCRIPTION: Feria IV Quatuor Temporum Pentecostes \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstdonnerstag
+UID:Liturgiekalender_20270520@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+DESCRIPTION: Feria V infra octavam Pentecostes \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quatember-Freitag
+UID:Liturgiekalender_20270521@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+DESCRIPTION: Feria VI Quatuor Temporum Pentecostes \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quatember-Samstag
+UID:Liturgiekalender_20270522@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DESCRIPTION: Sabbato Quatuor Temporum Pentecostes \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dreifaltigkeitssonntag
+UID:Liturgiekalender_20270523@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DESCRIPTION: IN FESTO SANCTISSIMÆ TRINITATIS \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270524@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papst Gregor VII.
+UID:Liturgiekalender_20270525@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DESCRIPTION: S. Gregorii VII Papæ et Conf., Commemoratio S. Urbani I Papæ et Mart. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philip Neri
+UID:Liturgiekalender_20270526@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+DESCRIPTION: S. Philippi Nerii Conf., Commemoratio S. Eleutherii Papæ et Mart. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fronleichnam
+UID:Liturgiekalender_20270527@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+DESCRIPTION: IN FESTO SSMI CORPORIS CHRISTI \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augustinus v. Canterbury
+UID:Liturgiekalender_20270528@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+DESCRIPTION: S. Augustini Ep. et Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria Magdalena v. Pazzi
+UID:Liturgiekalender_20270529@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+DESCRIPTION: S. Mariæ Magdalenæ de Pazzis Virg. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zweiter Sonntag n. Pfingsten
+UID:Liturgiekalender_20270530@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+DESCRIPTION: DOMINICA SECUNDA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria Königin
+UID:Liturgiekalender_20270531@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DESCRIPTION: B. Mariæ Virg. Reginæ, Commemoratio S. Petronillæ Virg. \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angela Merici
+UID:Liturgiekalender_20270601@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DESCRIPTION: S. Angelæ Mericiæ Virg. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Marcellinus, Petrus, Erasmus)
+UID:Liturgiekalender_20270602@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+DESCRIPTION: De feria, Commemoratio Ss. Marcellini, Petri atque Erasmi Ep., Mm. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priester-Do.
+UID:Liturgiekalender_20270603@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+DESCRIPTION: D.N. Iesu Christo summo et æterno Sacerdote \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herz-Jesu- Fest
+UID:Liturgiekalender_20270604@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DESCRIPTION: IN FESTO SACRATISSIMI CORDIS IESU \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonifatius (Herz-Mariä-Sühne-Sa.)
+UID:Liturgiekalender_20270605@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+DESCRIPTION: S. Bonifatii Ep. et Mart., S. MARIA In Sabbato \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270606@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+DESCRIPTION: DOMINICA TERTIA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270607@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270608@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Primus und Felicianus)
+UID:Liturgiekalender_20270609@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DESCRIPTION: De feria, Commemoratio Ss. Primi et Feliciani Mm. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Margarita v. Schottland
+UID:Liturgiekalender_20270610@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+DESCRIPTION: S. Margaritæ Reg., Vid. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barnabas
+UID:Liturgiekalender_20270611@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DESCRIPTION: S. Barnabæ Ap., \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johannes von Sahagun
+UID:Liturgiekalender_20270612@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DESCRIPTION: S. Ioannis de S. Facundo Conf., Commemoratio Ss. Basilidis, Cyrini, Naboris et Nazarii Mm. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270613@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+DESCRIPTION: DOMINICA QUARTA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basilius der Grosse
+UID:Liturgiekalender_20270614@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+DESCRIPTION: S. Basilii Magni Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Vitus, Modestus, Crescentia)
+UID:Liturgiekalender_20270615@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+DESCRIPTION: De feria, Commemoratio Ss. Viti, Modesti atque Crescentiæ Mm., \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270616@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gregorius Barbarigo
+UID:Liturgiekalender_20270617@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+DESCRIPTION: S. Gregorii Barbadici Ep. et Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ephrem der Syrer
+UID:Liturgiekalender_20270618@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+DESCRIPTION: S. Ephræm Syri Diaconi, Conf. et Eccl. Doct., Commemoratio Ss. Marci et Marcelliani Mm. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juliana v. Falconieri
+UID:Liturgiekalender_20270619@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+DESCRIPTION: S. Iulianæ de Falconeriis Virg., Commemoratio Ss. Gervasii et Protasii Mm. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270620@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+DESCRIPTION: DOMINICA QUINTA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aloisius von Gonzaga
+UID:Liturgiekalender_20270621@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+DESCRIPTION: S. Aloisii Gonzagæ Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paulinus von Nola
+UID:Liturgiekalender_20270622@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+DESCRIPTION: S. Paulini Ep. et Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigil Johannes des Täufers
+UID:Liturgiekalender_20270623@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+DESCRIPTION: In vigilia Nativitatis S. Ioannis Baptistæ \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geburt Johannes des Täufers
+UID:Liturgiekalender_20270624@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+DESCRIPTION: IN NATIVITATE S. IOANNIS BAPTISTÆ \n 1. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilhelm
+UID:Liturgiekalender_20270625@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+DESCRIPTION: S. Gulielmi Abb. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johannes und Paulus
+UID:Liturgiekalender_20270626@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+DESCRIPTION: Ss. Ioannis et Pauli Mm \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270627@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+DESCRIPTION: DOMINICA SEXTA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigil von Peter und Paul
+UID:Liturgiekalender_20270628@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DESCRIPTION: Vigilia \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apostel Petrus und Paulus
+UID:Liturgiekalender_20270629@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+DESCRIPTION: SS. PETRI ET PAULI APP. \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gedächtnis des Apostels Paulus
+UID:Liturgiekalender_20270630@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DESCRIPTION: In Commemoratione S. Pauli Ap., Commemoratio S. Petri Ap. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fest des kostbaren Blutes
+UID:Liturgiekalender_20270701@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DESCRIPTION: PRETIOSISSIMI SANGUINIS D.N.I.C \n 1. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mariä Heimsuchung
+UID:Liturgiekalender_20270702@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+DESCRIPTION: In Visitatione B. Mariæ Virg., Commemoratio Ss. Processi et Martiniani Mm. \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irenäus von Lyon (Herz-Mariä-Sühne-Sa.)
+UID:Liturgiekalender_20270703@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+DESCRIPTION: S. Irenæi Ep. et Mart., S. MARIA In Sabbato \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270704@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+DESCRIPTION: DOMINICA SEPTIMA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antonius M. Zaccaria
+UID:Liturgiekalender_20270705@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+DESCRIPTION: S. Antonii Mariæ Zaccaria Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270706@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cyrill u. Methodius
+UID:Liturgiekalender_20270707@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+DESCRIPTION: Ss. Cyrilli et Methodii Epp. et Cc. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elisabeth von Portugal
+UID:Liturgiekalender_20270708@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DESCRIPTION: S. Elisabeth Reg., Vid. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270709@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7 Brüder, Rufina u. Secunda
+UID:Liturgiekalender_20270710@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+DESCRIPTION: Ss. septem Fratrum Mm., ac Ss. Rufinæ et Secundæ Vv. et Mm. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270711@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+DESCRIPTION: DOMINICA OCTAVA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johannes Gualbertus
+UID:Liturgiekalender_20270712@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+DESCRIPTION: S. Ioannis Gualberti Abb., Commemoratio Ss. Naboris et Felicis Mm. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270713@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonaventura
+UID:Liturgiekalender_20270714@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+DESCRIPTION: S. Bonaventuræ Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaiser Heinrich II.
+UID:Liturgiekalender_20270715@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+DESCRIPTION: S. Henrici Imperatoris, Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Maria v. Berge Karmel)
+UID:Liturgiekalender_20270716@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+DESCRIPTION: De feria, Commemoratio B. Mariæ Virg. de Monte Carmelo \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria am Sa. (Alexius)
+UID:Liturgiekalender_20270717@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+DESCRIPTION: S. MARIA In Sabbato, Commemoratio S. Alexii Conf. \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270718@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+DESCRIPTION: DOMINICA NONA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vinzenz von Paul
+UID:Liturgiekalender_20270719@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+DESCRIPTION: S. Vincentii a Paulo Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hieronymus Ämiliani
+UID:Liturgiekalender_20270720@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+DESCRIPTION: S. Hieronymi Æmiliani Conf., Commemoratio S. Margaritæ Virg. et Mart. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laurentius von Brindisi
+UID:Liturgiekalender_20270721@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+DESCRIPTION: S. Laurentii de Brundusio Conf. et Eccl. Doct., Commemoratio S. Praxedis Virg. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria Magdalena
+UID:Liturgiekalender_20270722@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+DESCRIPTION: S. Mariæ Magdalenæ Pænitentis \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apollinaris
+UID:Liturgiekalender_20270723@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+DESCRIPTION: S. Apollinaris Ep. et Mart., Commemoratio S. Liborii Ep. et Conf. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria am Sa. (Christina v. Bolscena)
+UID:Liturgiekalender_20270724@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+DESCRIPTION: S. MARIA In Sabbato, Commemoratio S. Christinæ Virg. et Mart. \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270725@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+DESCRIPTION: DOMINICA DECIMA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutter Anna
+UID:Liturgiekalender_20270726@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+DESCRIPTION: S. Annæ Matris B. Mariæ Virg. \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Pantaleon)
+UID:Liturgiekalender_20270727@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+DESCRIPTION: De feria, Commemoratio S. Pantaleonis Mart. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nazarius, Celsus, Viktor, Innozenz I.
+UID:Liturgiekalender_20270728@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+DESCRIPTION: Ss. Nazarii et Celsi Mm., Victoris I Papæ et Mart., ac Innocentii I Papæ et Conf. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martha
+UID:Liturgiekalender_20270729@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+DESCRIPTION: S. Marthæ Virg., Commemoratio Ss. Felicis, Simplicii, Faustini et Beatricis Mm. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Abdon und Sennen)
+UID:Liturgiekalender_20270730@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+DESCRIPTION: De feria, Commemoratio Ss. Abdon et Sennen Mm. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ignatius v. Loyola
+UID:Liturgiekalender_20270731@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+DESCRIPTION: S. Ignatii Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270801@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DESCRIPTION: DOMINICA UNDECIMA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alfons Maria v. Liguori
+UID:Liturgiekalender_20270802@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+DESCRIPTION: S. Alfonsi Mariæ de Ligorio Ep., Conf. et Eccl. Doct., Commemoratio S. Stephani I Papæ et Mart. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270803@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dominikus
+UID:Liturgiekalender_20270804@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+DESCRIPTION: S. Dominici Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirchweihfest Maria Schnee (Priester-Do.)
+UID:Liturgiekalender_20270805@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+DESCRIPTION: In Dedicatione S. Mariæ ad Nives, D.N. Iesu Christo summo et æterno Sacerdote \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verklärung des Herrn
+UID:Liturgiekalender_20270806@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+DESCRIPTION: In Transfiguratione D.N.I.C., Commemoratio Ss. Xysti II Papæ, Felicissimi et Agapiti Mm. \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kajetan (Herz-Mariä-Sühne-Sa.)
+UID:Liturgiekalender_20270807@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+DESCRIPTION: S. Caietani Conf., Commemoratio S. Donati Ep. et Mart., S. MARIA In Sabbato \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270808@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+DESCRIPTION: DOMINICA DUODECIMA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigil Laurentius
+UID:Liturgiekalender_20270809@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+DESCRIPTION: Vigilia, Commemoratio S. Romani Mart. \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laurentius
+UID:Liturgiekalender_20270810@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+DESCRIPTION: S. Laurentii Mart. \n 2. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Tiburtius u. Susanna)
+UID:Liturgiekalender_20270811@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
 DESCRIPTION: De feria, Commemoratio Ss. Tiburtii et Susannæ Virg., Mm. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Klara v. Assisi
-UID:Liturgiekalender_20260812@introibo.net
+SUMMARY:Klara v. Assisi
+UID:Liturgiekalender_20270812@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-DESCRIPTION: S. Claræ Virg. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+DESCRIPTION: S. Claræ Virg. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Hippolyt und Kassian)
-UID:Liturgiekalender_20260813@introibo.net
+SUMMARY:vom Tag (Hippolyt und Kassian)
+UID:Liturgiekalender_20270813@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
 DESCRIPTION: De feria, Commemoratio Ss. Hippolyti et Cassiani Mm. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vigil Mariä Himmelfahrt
-UID:Liturgiekalender_20260814@introibo.net
+UID:Liturgiekalender_20270814@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
 DESCRIPTION: Vigilia, Commemoratio S. Eusebii Conf. \n 2. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mariä Himmelfahrt
-UID:Liturgiekalender_20260815@introibo.net
+UID:Liturgiekalender_20270815@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DESCRIPTION: IN ASSUMPTIONE B. MARIÆ VIRG. \n 1. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+DESCRIPTION: IN ASSUMPTIONE B. MARIÆ VIRG. \n 1. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12. Sonntag nach Pfingsten
-UID:Liturgiekalender_20260816@introibo.net
+SUMMARY:Joachim
+UID:Liturgiekalender_20270816@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DESCRIPTION: DOMINICA DUODECIMA post Pentecosten \n 2. Klasse, Farbe: grün
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+DESCRIPTION: S. Ioachim, Patris B. Mariæ Virg., Conf. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Hyacinth
-UID:Liturgiekalender_20260817@introibo.net
+SUMMARY:Hyacinth
+UID:Liturgiekalender_20270817@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DESCRIPTION: S. Hyacinthi Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+DESCRIPTION: S. Hyacinthi Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Agapitus)
-UID:Liturgiekalender_20260818@introibo.net
+SUMMARY:vom Tag (Agapitus)
+UID:Liturgiekalender_20270818@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
 DESCRIPTION: De feria, Commemoratio S. Agapiti Mart. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Johannes Eudes
-UID:Liturgiekalender_20260819@introibo.net
+SUMMARY:Johannes Eudes
+UID:Liturgiekalender_20270819@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DESCRIPTION: S. Ioannis Eudes Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+DESCRIPTION: S. Ioannis Eudes Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Bernhard v. Clairvaux
-UID:Liturgiekalender_20260820@introibo.net
+SUMMARY:Bernhard v. Clairvaux
+UID:Liturgiekalender_20270820@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-DESCRIPTION: S. Bernardi Abbatis et Eccl. Doct. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+DESCRIPTION: S. Bernardi Abbatis et Eccl. Doct. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Johanna Franziska v. Chantal
-UID:Liturgiekalender_20260821@introibo.net
+SUMMARY:Johanna Franziska v. Chantal
+UID:Liturgiekalender_20270821@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DESCRIPTION: S. Ioannae Franciscæ Frémiot de Chantal Vid. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+DESCRIPTION: S. Ioannae Franciscæ Frémiot de Chantal Vid. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unbeflecktes Herz Mariä
-UID:Liturgiekalender_20260822@introibo.net
+SUMMARY:14. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270822@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DESCRIPTION: Immaculati Cordis B. Mariæ Virg., Commemoratio Ss. Timothei et Soc. Mm. \n 2. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:13. Sonntag nach Pfingsten
-UID:Liturgiekalender_20260823@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DESCRIPTION: DOMINICA DECIMA TERTIA post Pentecosten \n 2. Klasse, Farbe: grün
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hl. Apostel Bartholomäus
-UID:Liturgiekalender_20260824@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DESCRIPTION: S. Bartholomæi Ap. \n 2. Klasse, Farbe: rot
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hl. König Ludwig
-UID:Liturgiekalender_20260825@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DESCRIPTION: S. Ludovici Regis, Conf. \n 3. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Zephyrinus)
-UID:Liturgiekalender_20260826@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-DESCRIPTION: De feria, Commemoratio S. Zephyrini Papæ et Mart \n 4. Klasse, Farbe: grün
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hl. Joseph v. Calasanza
-UID:Liturgiekalender_20260827@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-DESCRIPTION: S. Iosephi Calasanctii Conf. \n 3. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hl. Augustinus
-UID:Liturgiekalender_20260828@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-DESCRIPTION: S. Augustini Ep., Conf. et Eccl. Doct., Commemoratio S. Hermetis Mart. \n 3. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Enthauptung Johannes d. Täufers
-UID:Liturgiekalender_20260829@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DESCRIPTION: In Decollatione S. Ioannis Bapt., Commemoratio S. Sabinæ Mart. \n 3. Klasse, Farbe: rot
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14. Sonntag nach Pfingsten
-UID:Liturgiekalender_20260830@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
 DESCRIPTION: DOMINICA DECIMA QUARTA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Raymund Nonnatus
-UID:Liturgiekalender_20260831@introibo.net
+SUMMARY:Philipp Benitius
+UID:Liturgiekalender_20270823@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DESCRIPTION: S. Raymundi Nonnati Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+DESCRIPTION: S. Philippi Benitii Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Ägidius und 12 Brüder)
-UID:Liturgiekalender_20260901@introibo.net
+SUMMARY:Apostel Bartholomäus
+UID:Liturgiekalender_20270824@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-DESCRIPTION: De feria, Commemoratio S. Ægidii Abb., Commemoratio Ss. duodecim Fratrum Mm. \n 4. Klasse, Farbe: grün
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+DESCRIPTION: S. Bartholomæi Ap. \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. König Stephan
-UID:Liturgiekalender_20260902@introibo.net
+SUMMARY:König Ludwig
+UID:Liturgiekalender_20270825@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-DESCRIPTION: S. Stephani Regis, Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+DESCRIPTION: S. Ludovici Regis, Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Papst Pius X (Priester-Donnerstag)
-UID:Liturgiekalender_20260903@introibo.net
+SUMMARY:vom Tag (Zephyrinus)
+UID:Liturgiekalender_20270826@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-DESCRIPTION: S. Pii X Papæ et Conf., D.N. Iesu Christo summo et æterno Sacerdote \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+DESCRIPTION: De feria, Commemoratio S. Zephyrini Papæ et Mart \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Herz-Jesu-Freitag
-UID:Liturgiekalender_20260904@introibo.net
+SUMMARY:Joseph v. Calasanza
+UID:Liturgiekalender_20270827@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-DESCRIPTION: Ssmo Corde Iesu \n 4. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+DESCRIPTION: S. Iosephi Calasanctii Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Laurentius Justiani (Herz-Mariä-Sühne-Samstag)
-UID:Liturgiekalender_20260905@introibo.net
+SUMMARY:Augustinus
+UID:Liturgiekalender_20270828@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DESCRIPTION: S. Laurentii Iustiniani Ep. et Conf., S. MARIA In Sabbato \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+DESCRIPTION: S. Augustini Ep., Conf. et Eccl. Doct., Commemoratio S. Hermetis Mart. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:15. Sonntag nach Pfingsten
-UID:Liturgiekalender_20260906@introibo.net
+SUMMARY:15. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270829@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
 DESCRIPTION: DOMINICA DECIMA QUINTA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag
-UID:Liturgiekalender_20260907@introibo.net
+SUMMARY:Rosa v. Lima
+UID:Liturgiekalender_20270830@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+DESCRIPTION: S. Rosæ Limanæ Virg., Commemoratio Ss. Felicis et Adaucti Mm. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raymund Nonnatus
+UID:Liturgiekalender_20270831@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+DESCRIPTION: S. Raymundi Nonnati Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Ägidius/ 12 Brüder)
+UID:Liturgiekalender_20270901@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+DESCRIPTION: De feria, Commemoratio S. Ægidii Abb., Commemoratio Ss. duodecim Fratrum Mm. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:König Stephan (Priester-Do.)
+UID:Liturgiekalender_20270902@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+DESCRIPTION: S. Stephani Regis, Conf., D.N. Iesu Christo summo et æterno Sacerdote \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papst Pius X (Herz-Jesu-Fr.)
+UID:Liturgiekalender_20270903@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+DESCRIPTION: S. Pii X Papæ et Conf., Ssmo Corde Iesu \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herz-Mariä-Sühne-Sa.
+UID:Liturgiekalender_20270904@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270905@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+DESCRIPTION: DOMINICA DECIMA SEXTA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270906@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270907@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
 DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mariä Geburt
-UID:Liturgiekalender_20260908@introibo.net
+UID:Liturgiekalender_20270908@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-DESCRIPTION: In Nativitate B. Mariæ Virg., Commemoratio S. Hadriani Mart. \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+DESCRIPTION: In Nativitate B. Mariæ Virg., Commemoratio S. Hadriani Mart. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Gorgonius)
-UID:Liturgiekalender_20260909@introibo.net
+SUMMARY:vom Tag (Gorgonius)
+UID:Liturgiekalender_20270909@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
 DESCRIPTION: De feria, Commemoratio S. Gorgonii Mart \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Nikolaus v. Tolentino
-UID:Liturgiekalender_20260910@introibo.net
+SUMMARY:Nikolaus v. Tolentino
+UID:Liturgiekalender_20270910@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-DESCRIPTION: S. Nicolai de Tolentino Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+DESCRIPTION: S. Nicolai de Tolentino Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Protus und Hyazinth)
-UID:Liturgiekalender_20260911@introibo.net
+SUMMARY:Maria am Sa. (Protus und Hyazinth)
+UID:Liturgiekalender_20270911@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-DESCRIPTION: De feria, Commemoratio Ss. Proti et Hyacinthi Mm. \n 4. Klasse, Farbe: grün
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+DESCRIPTION: S. MARIA In Sabbato, Commemoratio Ss. Proti et Hyacinthi Mm. \n 4. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mariä Namen
-UID:Liturgiekalender_20260912@introibo.net
+SUMMARY:17. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270912@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-DESCRIPTION: Sanctissimi Nominis B. Mariæ Virg. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+DESCRIPTION: DOMINICA DECIMA SEPTIMA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:16. Sonntag nach Pfingsten
-UID:Liturgiekalender_20260913@introibo.net
+SUMMARY:vom Tag
+UID:Liturgiekalender_20270913@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-DESCRIPTION: DOMINICA DECIMA SEXTA post Pentecosten \n 2. Klasse, Farbe: grün
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kreuzerhöhung
-UID:Liturgiekalender_20260914@introibo.net
+UID:Liturgiekalender_20270914@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
 DESCRIPTION: In Exaltatione S. Crucis \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Schmerzen Mariens
-UID:Liturgiekalender_20260915@introibo.net
+UID:Liturgiekalender_20270915@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-DESCRIPTION: Septem Dolorum B. Mariæ Virg., Commemoratio S. Nicomedis Mart. \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+DESCRIPTION: Septem Dolorum B. Mariæ Virg., Commemoratio S. Nicomedis Mart. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Cornelius und Cyprian
-UID:Liturgiekalender_20260916@introibo.net
+SUMMARY:Cornelius u. Cyprian
+UID:Liturgiekalender_20270916@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
 DESCRIPTION: Ss. Cornelii Papæ et Cypriani Ep., Mm., Commemoratio Ss. Euphemiæ, Virg., Luciæ et Geminiani Mm. \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Hildegard v. Bingen
-UID:Liturgiekalender_20260917@introibo.net
+SUMMARY:vom Tag (Ged d. Stigmatisierung des Franz v. Assisi)
+UID:Liturgiekalender_20270917@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-DESCRIPTION: S. Hildegardis, Virg. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+DESCRIPTION: De feria, Commemoratio Impress. Ss. Stigmatum S. Francisci Conf. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Joseph v. Cupertino
-UID:Liturgiekalender_20260918@introibo.net
+SUMMARY:Joseph v. Cupertino
+UID:Liturgiekalender_20270918@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DESCRIPTION: S. Iosephi de Cupertino Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+DESCRIPTION: S. Iosephi de Cupertino Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Januarius und Gefährten
-UID:Liturgiekalender_20260919@introibo.net
+SUMMARY:18. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270919@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DESCRIPTION: Ss. Ianuarii Ep. et Sociorum Mm. \n 3. Klasse, Farbe: rot
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:17. Sonntag nach Pfingsten
-UID:Liturgiekalender_20260920@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-DESCRIPTION: DOMINICA DECIMA SEPTIMA post Pentecosten \n 2. Klasse, Farbe: grün
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hl. Apostel und Evangelist Matthäus
-UID:Liturgiekalender_20260921@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-DESCRIPTION: S. Matthæi Ap. et Evangelistæ \n 2. Klasse, Farbe: rot
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hl. Thomas v. Villanova
-UID:Liturgiekalender_20260922@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DESCRIPTION: S. Thomæ de Villanova Ep. et Conf., Commemoratio Ss. Mauritii et Soc. Mm. \n 3. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quatembermittwoch (Fastentag)
-UID:Liturgiekalender_20260923@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DESCRIPTION:Feria IV Quattuor Temporum Septembris \n 2. Klasse, Farbe: violett \n Fastentag (ohne Abstinenz).
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:vom Tag (Gedächtnis Erlösung der Gefangenen)
-UID:Liturgiekalender_20260924@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-DESCRIPTION: De feria, Commemoratio B. Mariæ Virg. a Mercede \n 4. Klasse, Farbe: grün
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quatemberfreitag (Fasten- & Abstinenztag)
-UID:Liturgiekalender_20260925@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DESCRIPTION:Feria VI Quattuor Temporum Septembris \n 2. Klasse, Farbe: violett \n Strenger Fast- und Abstinenztag. Komm. Hl. Nikolaus v. Flüe.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quatembersamstag (Fastentag)
-UID:Liturgiekalender_20260926@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:Sabbato Quattuor Temporum Septembris \n 2. Klasse, Farbe: violett \n Fastentag (ohne Abstinenz).
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:18. Sonntag nach Pfingsten
-UID:Liturgiekalender_20260927@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
 DESCRIPTION: DOMINICA DECIMA OCTAVA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weihetag der Kathedralkirche Augsburg
-UID:Liturgiekalender_20260928@introibo.net
+SUMMARY:vom Tag (Eustachius u. Gefährten)
+UID:Liturgiekalender_20270920@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DESCRIPTION: In Dedicatione ecclesiæ cathedralis \n 1. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+DESCRIPTION: De feria, Commemoratio Ss. Eustachii et Sociorum Mm. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kirchweihfest d. Erzengels Michael
-UID:Liturgiekalender_20260929@introibo.net
+SUMMARY:Apostel u. Evangelist Matthäus
+UID:Liturgiekalender_20270921@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-DESCRIPTION: IN DEDICATIONE S. MICHAËLIS ARCH. \n 1. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+DESCRIPTION: S. Matthæi Ap. et Evangelistæ \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Hieronymus
-UID:Liturgiekalender_20260930@introibo.net
+SUMMARY:Quatember-Mittwoch
+UID:Liturgiekalender_20270922@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-DESCRIPTION: S. Hieronymi Presb., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+DESCRIPTION: FERIA QUARTA Quatuor Temporum septembris \n 2. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Priester-Donnerstag
-UID:Liturgiekalender_20261001@introibo.net
+SUMMARY:Papst Linus
+UID:Liturgiekalender_20270923@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DESCRIPTION: D.N. Iesu Christo summo et æterno Sacerdote \n 4. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+DESCRIPTION: S. Lini Papæ et Mart., Commemoratio S. Theclæ Virg. et Mart. \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schutzengelfest (Herz-Jesu-Freitag)
-UID:Liturgiekalender_20261002@introibo.net
+SUMMARY:Quatember-Freitag
+UID:Liturgiekalender_20270924@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-DESCRIPTION: Ss. Angelorum Custodum, Ssmo Corde Iesu \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+DESCRIPTION: FERIA SEXTA Quatuor Temporum septembris \n 2. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Theresia v. Kinde Jesu (Herz-Mariä-Sühne-Samstag)
-UID:Liturgiekalender_20261003@introibo.net
+SUMMARY:Quatember-Samstag
+UID:Liturgiekalender_20270925@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-DESCRIPTION: S. Teresiæ a Iesu Infante Virg., S. MARIA In Sabbato \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+DESCRIPTION: SABBATO Quatuor Temporum septembris \n 2. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:19. Sonntag nach Pfingsten
-UID:Liturgiekalender_20261004@introibo.net
+SUMMARY:19. Sonntag n. Pfingsten
+UID:Liturgiekalender_20270926@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
 DESCRIPTION: DOMINICA DECIMA NONA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Placidus und Gefährten)
-UID:Liturgiekalender_20261005@introibo.net
+SUMMARY:Kosmas u. Damian
+UID:Liturgiekalender_20270927@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DESCRIPTION: De feria, Commemoratio Ss. Placidi et Sociorum Mm. \n 4. Klasse, Farbe: grün
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+DESCRIPTION: Ss. Cosmæ et Damiani Mm. \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Bruno
-UID:Liturgiekalender_20261006@introibo.net
+SUMMARY:Wenzeslaus
+UID:Liturgiekalender_20270928@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-DESCRIPTION: S. Brunonis Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+DESCRIPTION: S. Wenceslai Ducis, Mart. \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rosenkranzfest
-UID:Liturgiekalender_20261007@introibo.net
+SUMMARY:Kirchweihfest d. Erzengels Michael
+UID:Liturgiekalender_20270929@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DESCRIPTION: B. Mariæ Virg. a Rosario, Commemoratio S. Marci Papæ et Conf. \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+DESCRIPTION: IN DEDICATIONE S. MICHAËLIS ARCH. \n 1. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Birgitta von Schweden
-UID:Liturgiekalender_20261008@introibo.net
+SUMMARY:Hieronymus
+UID:Liturgiekalender_20270930@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DESCRIPTION: S. Birgittæ Vid, Commemoratio Ss. Sergii, Bacchi, Marcelli et Apuleii Mm. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+DESCRIPTION: S. Hieronymi Presb., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Johannes Leonardi
-UID:Liturgiekalender_20261009@introibo.net
+SUMMARY:Herz-Jesu-Fr.
+UID:Liturgiekalender_20271001@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-DESCRIPTION: S. Ioannis Leonardi Conf., Commemoratio Ss. Dionysii Ep., Rustici et Eleutherii Mm. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+DESCRIPTION: Ssmo Corde Iesu \n 4. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Franz von Borgia
-UID:Liturgiekalender_20261010@introibo.net
+SUMMARY:Schutzengelfest (Herz-Mariä-Sühne-Sa.)
+UID:Liturgiekalender_20271002@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DESCRIPTION: S. Francisci Borgiæ Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+DESCRIPTION: Ss. Angelorum Custodum, S. MARIA In Sabbato \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:20. Sonntag nach Pfingsten
-UID:Liturgiekalender_20261011@introibo.net
+SUMMARY:20. Sonntag n. Pfingsten
+UID:Liturgiekalender_20271003@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
 DESCRIPTION: DOMINICA VIGESIMA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weihetag der eigenen Kirche
-UID:Liturgiekalender_20261012@introibo.net
+SUMMARY:Franziskus von Assisi
+UID:Liturgiekalender_20271004@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DESCRIPTION: In Dedicatione ecclesiæ propriæ (außer Dom) \n 1. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+DESCRIPTION: S. Francisci Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. König Eduard
-UID:Liturgiekalender_20261013@introibo.net
+SUMMARY:vom Tag (Placidus und Gefährten)
+UID:Liturgiekalender_20271005@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-DESCRIPTION: S. Eduardi Regis, Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+DESCRIPTION: De feria, Commemoratio Ss. Placidi et Sociorum Mm. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Papst Calixtus I.
-UID:Liturgiekalender_20261014@introibo.net
+SUMMARY:Bruno
+UID:Liturgiekalender_20271006@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DESCRIPTION: S. Callisti I Papæ et Mart. \n 3. Klasse, Farbe: rot
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+DESCRIPTION: S. Brunonis Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Theresia v. Avila
-UID:Liturgiekalender_20261015@introibo.net
+SUMMARY:Rosenkranzfest
+UID:Liturgiekalender_20271007@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DESCRIPTION: S. Teresiæ Virg. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+DESCRIPTION: B. Mariæ Virg. a Rosario, Commemoratio S. Marci Papæ et Conf. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Hedwig
-UID:Liturgiekalender_20261016@introibo.net
+SUMMARY:Birgitta von Schweden
+UID:Liturgiekalender_20271008@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DESCRIPTION: S. Hedwigis Vid. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+DESCRIPTION: S. Birgittæ Vid, Commemoratio Ss. Sergii, Bacchi, Marcelli et Apuleii Mm. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Margarita Maria Alacoque
-UID:Liturgiekalender_20261017@introibo.net
+SUMMARY:Johannes Leonardi
+UID:Liturgiekalender_20271009@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DESCRIPTION: S. Margaritæ Mariæ Alacoque Virg. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+DESCRIPTION: S. Ioannis Leonardi Conf., Commemoratio Ss. Dionysii Ep., Rustici et Eleutherii Mm. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:21. Sonntag nach Pfingsten
-UID:Liturgiekalender_20261018@introibo.net
+SUMMARY:21. Sonntag n. Pfingsten
+UID:Liturgiekalender_20271010@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
 DESCRIPTION: DOMINICA VIGESIMA PRIMA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Petrus v. Alcantara
-UID:Liturgiekalender_20261019@introibo.net
+SUMMARY:Mutterschaft Mariens
+UID:Liturgiekalender_20271011@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DESCRIPTION: S. Petri de Alcantara Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+DESCRIPTION: Maternitatis B. Mariæ Virg. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Johannes Cantius
-UID:Liturgiekalender_20261020@introibo.net
+SUMMARY:vom Tag
+UID:Liturgiekalender_20271012@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DESCRIPTION: S. Ioannis Cantii Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Hilarion, Ursula und Gefährten)
-UID:Liturgiekalender_20261021@introibo.net
+SUMMARY:König Eduard
+UID:Liturgiekalender_20271013@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+DESCRIPTION: S. Eduardi Regis, Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papst Calixtus I.
+UID:Liturgiekalender_20271014@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+DESCRIPTION: S. Callisti I Papæ et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theresia v. Avila
+UID:Liturgiekalender_20271015@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+DESCRIPTION: S. Teresiæ Virg. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hedwig
+UID:Liturgiekalender_20271016@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+DESCRIPTION: S. Hedwigis Vid. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22. Sonntag n. Pfingsten
+UID:Liturgiekalender_20271017@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+DESCRIPTION: DOMINICA VIGESIMA SECUNDA post Pentecosten \n 2. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evangelist Lukas
+UID:Liturgiekalender_20271018@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+DESCRIPTION: S. Lucæ Evangelistæ \n 2. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petrus v. Alcantara
+UID:Liturgiekalender_20271019@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+DESCRIPTION: S. Petri de Alcantara Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johannes Cantius
+UID:Liturgiekalender_20271020@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+DESCRIPTION: S. Ioannis Cantii Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag (Hilarion, Ursula u. Gefährten)
+UID:Liturgiekalender_20271021@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
 DESCRIPTION: De feria, Commemoratio S. Hilarionis Abb., Commemoratio Ss. Ursulæ ac Soc. Vv. et Mm. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261022@introibo.net
+UID:Liturgiekalender_20271022@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
 DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Antonius Maria Claret
-UID:Liturgiekalender_20261023@introibo.net
+SUMMARY:Antonius Maria Claret
+UID:Liturgiekalender_20271023@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DESCRIPTION: S. Antonii Mariæ Claret Ep. et Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+DESCRIPTION: S. Antonii Mariæ Claret Ep. et Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Erzengel Raphael
-UID:Liturgiekalender_20261024@introibo.net
+SUMMARY:23. Sonntag n. Pfingsten
+UID:Liturgiekalender_20271024@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION: S. Raphaëlis Archang. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+DESCRIPTION: DOMINICA VIGESIMA TERTIA post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christkönigssonntag
-UID:Liturgiekalender_20261025@introibo.net
+SUMMARY:vom Tag (Chrysanthus und Daria)
+UID:Liturgiekalender_20271025@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DESCRIPTION: D.N. IESU CHRISTI REGIS \n 1. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+DESCRIPTION: De feria, Commemoratio Ss. Chrysanthi et Dariæ Mm., \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Papst Evaristus)
-UID:Liturgiekalender_20261026@introibo.net
+SUMMARY:vom Tag (Papst Evaristus)
+UID:Liturgiekalender_20271026@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
 DESCRIPTION: De feria, Commemoratio S. Evaristi Papæ et Mart. \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261027@introibo.net
+UID:Liturgiekalender_20271027@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
 DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Apostel Simon und Judas
-UID:Liturgiekalender_20261028@introibo.net
+SUMMARY:Apostel Simon und Judas
+UID:Liturgiekalender_20271028@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
 DESCRIPTION: Ss. Simonis et Iudæ App. \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261029@introibo.net
+UID:Liturgiekalender_20271029@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
 DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag
-UID:Liturgiekalender_20261030@introibo.net
+SUMMARY:Maria am Sa.
+UID:Liturgiekalender_20271030@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maria am Samstag
-UID:Liturgiekalender_20261031@introibo.net
+SUMMARY:Christkönigssonntag
+UID:Liturgiekalender_20271031@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+DESCRIPTION: D.N. IESU CHRISTI REGIS \n 1. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allerheiligen
-UID:Liturgiekalender_20261101@introibo.net
+UID:Liturgiekalender_20271101@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DESCRIPTION: OMNIUM SANCTORUM \n 1. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+DESCRIPTION: OMNIUM SANCTORUM \n 1. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allerseelen
-UID:Liturgiekalender_20261102@introibo.net
+UID:Liturgiekalender_20271102@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
 DESCRIPTION: IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM \n 1. Klasse, Farbe: schwarz
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261103@introibo.net
+UID:Liturgiekalender_20271103@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
 DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Karl Borromäus
-UID:Liturgiekalender_20261104@introibo.net
+SUMMARY:Karl Borromäus (Priester-Do.)
+UID:Liturgiekalender_20271104@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DESCRIPTION: S. Caroli Ep. et Conf., Commemoratio Ss. Vitalis et Agricolæ Mm. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+DESCRIPTION: S. Caroli Ep. et Conf., Commemoratio Ss. Vitalis et Agricolæ Mm., D.N. Iesu Christo summo et æterno Sacerdote \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Priester-Donnerstag
-UID:Liturgiekalender_20261105@introibo.net
+SUMMARY:Herz-Jesu-Fr.
+UID:Liturgiekalender_20271105@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-DESCRIPTION: D.N. Iesu Christo summo et æterno Sacerdote \n 4. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+DESCRIPTION: Ssmo Corde Iesu \n 4. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Herz-Jesu-Freitag
-UID:Liturgiekalender_20261106@introibo.net
+SUMMARY:Herz-Mariä-Sühne-Sa.
+UID:Liturgiekalender_20271106@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DESCRIPTION: Ssmo Corde Iesu \n 4. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Herz-Mariä-Sühne-Samstag
-UID:Liturgiekalender_20261107@introibo.net
+SUMMARY:5. Sonntag n. Erscheinung
+UID:Liturgiekalender_20271107@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:5. Sonntag nach Erscheinung
-UID:Liturgiekalender_20261108@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
 DESCRIPTION: DOMINICA QUINTA quæ superfuit post Epiphaniam \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:vom Tag (Vier Gekrönte)
+UID:Liturgiekalender_20271108@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+DESCRIPTION: De feria, Cammemoratio Ss. Quatuor Coronatorum Mm. \n 4. Klasse, Farbe: grün
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weihefest der Lateranbasilika
-UID:Liturgiekalender_20261109@introibo.net
+UID:Liturgiekalender_20271109@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-DESCRIPTION: In Dedicatione Archibasilicse Ss.mi Salvatoris, Commemoratio S. Theodori Mart. \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+DESCRIPTION: In Dedicatione Archibasilicse Ss.mi Salvatoris, Commemoratio S. Theodori Mart. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Andreas Avellinus
-UID:Liturgiekalender_20261110@introibo.net
+SUMMARY:Andreas Avellinus
+UID:Liturgiekalender_20271110@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-DESCRIPTION: S. Andreæ Avellini Conf., Commemoratio Ss. Tryphonis, Respicii et Nymphæ Virg., Mart. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+DESCRIPTION: S. Andreæ Avellini Conf., Commemoratio Ss. Tryphonis, Respicii et Nymphæ Virg., Mart. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Martin von Tours
-UID:Liturgiekalender_20261111@introibo.net
+SUMMARY:Martin von Tours
+UID:Liturgiekalender_20271111@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DESCRIPTION: S. Martini Ep. et Conf., Commemoratio S. Mennæ Mart. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+DESCRIPTION: S. Martini Ep. et Conf., Commemoratio S. Mennæ Mart. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Papst Martin I.
-UID:Liturgiekalender_20261112@introibo.net
+SUMMARY:Papst Martin I.
+UID:Liturgiekalender_20271112@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-DESCRIPTION: S. Martini I Papæ et Mart. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+DESCRIPTION: S. Martini I Papæ et Mart. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Didacus
-UID:Liturgiekalender_20261113@introibo.net
+SUMMARY:Didacus
+UID:Liturgiekalender_20271113@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-DESCRIPTION: S. Didaci Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+DESCRIPTION: S. Didaci Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Josaphat
-UID:Liturgiekalender_20261114@introibo.net
+SUMMARY:6. Sonntag n. Erscheinung
+UID:Liturgiekalender_20271114@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DESCRIPTION: S. Iosaphat Ep. et Mart. \n 3. Klasse, Farbe: rot
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6. Sonntag nach Erscheinung
-UID:Liturgiekalender_20261115@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
 DESCRIPTION: DOMINICA SEXTA quæ superfuit post Epiphaniam \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Gertrud v. Helfta
-UID:Liturgiekalender_20261116@introibo.net
+SUMMARY:Albert der Grosse
+UID:Liturgiekalender_20271115@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-DESCRIPTION: S. Gertrudis Virg. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+DESCRIPTION: S. Alberti Magni Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Gregor d. Wundertäter
-UID:Liturgiekalender_20261117@introibo.net
+SUMMARY:Gertrud v. Helfta
+UID:Liturgiekalender_20271116@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-DESCRIPTION: S. Gregorii Thaumaturgi Ep. et Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+DESCRIPTION: S. Gertrudis Virg. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weihefest d. Basiliken St. Peter und Paul
-UID:Liturgiekalender_20261118@introibo.net
+SUMMARY:Gregor d. Wundertäter
+UID:Liturgiekalender_20271117@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DESCRIPTION: In Dedicatione Basilicarum Ss. Petri et Pauli App. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+DESCRIPTION: S. Gregorii Thaumaturgi Ep. et Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Elisabeth v. Thüringen
-UID:Liturgiekalender_20261119@introibo.net
+SUMMARY:Weihefest d. Basiliken St. Peter u. Paul
+UID:Liturgiekalender_20271118@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-DESCRIPTION: S. Elisabeth Vid., Commemoratio S. Pontiani Papæ et Mart. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+DESCRIPTION: In Dedicatione Basilicarum Ss. Petri et Pauli App. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Felix v. Valois
-UID:Liturgiekalender_20261120@introibo.net
+SUMMARY:Elisabeth v. Thüringen
+UID:Liturgiekalender_20271119@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-DESCRIPTION: S. Felicis de Valois Conf. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271119
+DTEND;VALUE=DATE:20271120
+DESCRIPTION: S. Elisabeth Vid., Commemoratio S. Pontiani Papæ et Mart. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mariä Opferung
-UID:Liturgiekalender_20261121@introibo.net
+SUMMARY:Felix v. Valois
+UID:Liturgiekalender_20271120@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DESCRIPTION: In Præsentatione B. Mariæ Virg. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+DESCRIPTION: S. Felicis de Valois Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Letzter Sonntag nach Pfingsten
-UID:Liturgiekalender_20261122@introibo.net
+SUMMARY:Letzter Sonntag n. Pfingsten
+UID:Liturgiekalender_20271121@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
 DESCRIPTION: DOMINICA VIGESIMA QUARTA et ultima post Pentecosten \n 2. Klasse, Farbe: grün
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Papst Clemens I.
-UID:Liturgiekalender_20261123@introibo.net
+SUMMARY:Cäcilia
+UID:Liturgiekalender_20271122@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+DESCRIPTION: S. Cæciliæ Virg. et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Papst Clemens I.
+UID:Liturgiekalender_20271123@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
 DESCRIPTION: S. Clementis I Papæ et Mart., Commemoratio S. Felicitatis Mart. \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Johannes vom Kreuz
-UID:Liturgiekalender_20261124@introibo.net
+SUMMARY:Johannes vom Kreuz
+UID:Liturgiekalender_20271124@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DESCRIPTION: S. Ioannis a Cruce Conf. et Eccl. Doct., Commemoratio S. Chrysogoni Mart. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+DESCRIPTION: S. Ioannis a Cruce Conf. et Eccl. Doct., Commemoratio S. Chrysogoni Mart. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Katharina v. Alexandrien
-UID:Liturgiekalender_20261125@introibo.net
+SUMMARY:Katharina v. Alexandrien
+UID:Liturgiekalender_20271125@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
 DESCRIPTION: S. Catharinæ Virg. et Mart. \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Silvester
-UID:Liturgiekalender_20261126@introibo.net
+SUMMARY:Silvester
+UID:Liturgiekalender_20271126@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DESCRIPTION: S. Silvestri Abb., Commemoratio S. Petri Alexandrini Ep. et Mart. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+DESCRIPTION: S. Silvestri Abb., Commemoratio S. Petri Alexandrini Ep. et Mart. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag
-UID:Liturgiekalender_20261127@introibo.net
+SUMMARY:Maria am Sa.
+UID:Liturgiekalender_20271127@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DESCRIPTION: De feria \n 4. Klasse, Farbe: grün
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maria am Samstag
-UID:Liturgiekalender_20261128@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+DESCRIPTION: S. MARIA In Sabbato \n 4. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Advent
-UID:Liturgiekalender_20261129@introibo.net
+UID:Liturgiekalender_20271128@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
 DESCRIPTION: DOMINICA PRIMA ADVENTUS \n 1. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Apostel Andreas
-UID:Liturgiekalender_20261130@introibo.net
+SUMMARY:vom Tag
+UID:Liturgiekalender_20271129@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apostel Andreas
+UID:Liturgiekalender_20271130@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
 DESCRIPTION: S. Andreæ Ap. \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261201@introibo.net
+UID:Liturgiekalender_20271201@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
 DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Bibiana
-UID:Liturgiekalender_20261202@introibo.net
+SUMMARY:Bibiana (Priester-Do.)
+UID:Liturgiekalender_20271202@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-DESCRIPTION: S. Bibianæ Virg. et Mart. \n 3. Klasse, Farbe: rot
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+DESCRIPTION: S. Bibianæ Virg. et Mart., D.N. Iesu Christo summo et æterno Sacerdote \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Franz Xaver (Priester-Donnerstag)
-UID:Liturgiekalender_20261203@introibo.net
+SUMMARY:Franz Xaver (Herz-Jesu-Fr.)
+UID:Liturgiekalender_20271203@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-DESCRIPTION: S. Francisci Xaverii Conf., D.N. Iesu Christo summo et æterno Sacerdote \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+DESCRIPTION: S. Francisci Xaverii Conf., Ssmo Corde Iesu \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Petrus Chrysologus (Herz-Jesu-Freitag)
-UID:Liturgiekalender_20261204@introibo.net
+SUMMARY:Petrus Chrysologus (Herz-Mariä-Sühne-Sa.)
+UID:Liturgiekalender_20271204@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-DESCRIPTION: S. Petri Chrysologi Ep., Conf. et Eccl. Doct., Commemoratio S. Barbaræ Virg. et Mart., Ssmo Corde Iesu \n 3. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Sabbas) (Herz-Mariä-Sühne-Samstag)
-UID:Liturgiekalender_20261205@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-DESCRIPTION: Commemoratio S. Sabbæ Abb., S. MARIA In Sabbato \n 3. Klasse, Farbe: violett
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+DESCRIPTION: S. Petri Chrysologi Ep., Conf. et Eccl. Doct., Commemoratio S. Barbaræ Virg. et Mart., S. MARIA In Sabbato \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Advent
-UID:Liturgiekalender_20261206@introibo.net
+UID:Liturgiekalender_20271205@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
+DTSTART;VALUE=DATE:20271205
+DTEND;VALUE=DATE:20271206
 DESCRIPTION: DOMINICA SECUNDA ADVENTUS \n 1. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Ambrosius
-UID:Liturgiekalender_20261207@introibo.net
+SUMMARY:Nikolaus
+UID:Liturgiekalender_20271206@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-DESCRIPTION: S. Ambrosii Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+DESCRIPTION: S. Nicolai Ep. et Conf. \n 3. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ambrosius
+UID:Liturgiekalender_20271207@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+DESCRIPTION: S. Ambrosii Ep., Conf. et Eccl. Doct. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unbefleckte Empfängnis Mariä
-UID:Liturgiekalender_20261208@introibo.net
+UID:Liturgiekalender_20271208@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-DESCRIPTION: IN CONCEPTIONE IMMACULATA B. MARIÆ VIRG. \n 1. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+DESCRIPTION: IN CONCEPTIONE IMMACULATA B. MARIÆ VIRG. \n 1. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261209@introibo.net
+UID:Liturgiekalender_20271209@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
 DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag (Hl. Melchiades)
-UID:Liturgiekalender_20261210@introibo.net
+SUMMARY:vom Tag (Melchiades)
+UID:Liturgiekalender_20271210@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
 DESCRIPTION: Commemoratio S. Melchiadis Papæ et Mart. \n 3. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Papst Damasus I.
-UID:Liturgiekalender_20261211@introibo.net
+SUMMARY:Papst Damasus I.
+UID:Liturgiekalender_20271211@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-DESCRIPTION: S. Damasi I Papæ et Conf. \n 3. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:vom Tag
-UID:Liturgiekalender_20261212@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+DESCRIPTION: S. Damasi I Papæ et Conf. \n 3. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Advent (Gaudete)
-UID:Liturgiekalender_20261213@introibo.net
+UID:Liturgiekalender_20271212@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
 DESCRIPTION: DOMINICA TERTIA ADVENTUS \n 1. Klasse, Farbe: rosa
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vom Tag
-UID:Liturgiekalender_20261214@introibo.net
+SUMMARY:Lucia
+UID:Liturgiekalender_20271213@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+DESCRIPTION: S. Luciæ Virg. et Mart. \n 3. Klasse, Farbe: rot
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vom Tag
+UID:Liturgiekalender_20271214@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
 DESCRIPTION: De feria \n 3. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Kaiserin Adelheid v. Burgund
-UID:Liturgiekalender_20261215@introibo.net
+SUMMARY:Quatember-Mittwoch
+UID:Liturgiekalender_20271215@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-DESCRIPTION: S. Adelaidis, Vid. \n 3. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+DESCRIPTION: FERIA QUARTA Quatuor Temporum Adventus \n 2. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quatembermittwoch (Fastentag)
-UID:Liturgiekalender_20261216@introibo.net
+SUMMARY:Eusebius
+UID:Liturgiekalender_20271216@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-DESCRIPTION:Feria IV Quattuor Temporum Adventus \n 2. Klasse, Farbe: violett \n Fastentag (ohne Abstinenz).
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:vom Tag
-UID:Liturgiekalender_20261217@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-DESCRIPTION: De feria \n 2. Klasse, Farbe: violett
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+DESCRIPTION: S. Eusebii Ep. et Mart. \n 3. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quatemberfreitag (Fasten- & Abstinenztag)
-UID:Liturgiekalender_20261218@introibo.net
+SUMMARY:Quatember-Freitag
+UID:Liturgiekalender_20271217@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-DESCRIPTION:Feria VI Quattuor Temporum Adventus \n 2. Klasse, Farbe: violett \n Strenger Fast- und Abstinenztag.
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+DESCRIPTION: FERIA SEXTA Quatuor Temporurn Adventus \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quatembersamstag (Fastentag)
-UID:Liturgiekalender_20261219@introibo.net
+SUMMARY:Quatember-Samstag
+UID:Liturgiekalender_20271218@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-DESCRIPTION:Sabbato Quattuor Temporum Adventus \n 2. Klasse, Farbe: violett \n Fastentag (ohne Abstinenz).
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271219
+DESCRIPTION: SABBATO Quatuor Temporum Adventus \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. Advent
-UID:Liturgiekalender_20261220@introibo.net
+UID:Liturgiekalender_20271219@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
 DESCRIPTION: DOMINICA QUARTA ADVENTUS \n 1. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hl. Apostel Thomas
-UID:Liturgiekalender_20261221@introibo.net
+SUMMARY:vom Tag
+UID:Liturgiekalender_20271220@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20271221
+DESCRIPTION: De feria \n 2. Klasse, Farbe: violett
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apostel Thomas
+UID:Liturgiekalender_20271221@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
 DESCRIPTION: S. Thomæ Ap. \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261222@introibo.net
+UID:Liturgiekalender_20271222@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
 DESCRIPTION: De feria \n 2. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vom Tag
-UID:Liturgiekalender_20261223@introibo.net
+UID:Liturgiekalender_20271223@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
 DESCRIPTION: De feria \n 2. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vigil von Weihnachten
-UID:Liturgiekalender_20261224@introibo.net
+UID:Liturgiekalender_20271224@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
 DESCRIPTION: In vigilia Nativitatis Domini \n 1. Klasse, Farbe: violett
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weihnachten
-UID:Liturgiekalender_20261225@introibo.net
+UID:Liturgiekalender_20271225@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-DESCRIPTION: IN NATIVITATE DOMINI, In secunda Missa: Commemoratio S. Anastasiæ Mart. \n 1. Klasse, Farbe: weiß
-URL:https://introibo.net/kalender.php
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hl. Stephanus
-UID:Liturgiekalender_20261226@introibo.net
-STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-DESCRIPTION: II dies infra octavam Nativitatis Domini: S. Stephani Protomart. \n 2. Klasse, Farbe: rot
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+DESCRIPTION: IN NATIVITATE DOMINI, In secunda Missa: Commemoratio S. Anastasiæ Mart. \n 1. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonntag in der Weihnachtsoktav
-UID:Liturgiekalender_20261227@introibo.net
+UID:Liturgiekalender_20271226@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-DESCRIPTION: DOMINICA INFRA OCTAVAM NATIVITATIS DOMINI \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+DESCRIPTION: DOMINICA INFRA OCTAVAM NATIVITATIS DOMINI \n 2. Klasse, Farbe: weiss
+URL:https://introibo.net/kalender.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apostel und Evangelist Johannes
+UID:Liturgiekalender_20271227@introibo.net
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+DESCRIPTION: III dies infra octavam Nativitatis Domini: S. Ioannis Ap. et Evangelistæ \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fest der unschuldigen Kinder
-UID:Liturgiekalender_20261228@introibo.net
+UID:Liturgiekalender_20271228@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
 DESCRIPTION: IV dies infra octavam Nativitatis Domini: Ss. Innocentium Martyrium \n 2. Klasse, Farbe: rot
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weihnachtsoktav (Hl. Thomas Becket)
-UID:Liturgiekalender_20261229@introibo.net
+SUMMARY:Weihnachtsoktav (Thomas Becket)
+UID:Liturgiekalender_20271229@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-DESCRIPTION: De V die infra octavam Nativitatis Domini, Commemoratio S. Thoma Ep. et Mart. \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+DESCRIPTION: De V die infra octavam Nativitatis Domini, Commemoratio S. Thoma Ep. et Mart. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weihnachtsoktav
-UID:Liturgiekalender_20261230@introibo.net
+UID:Liturgiekalender_20271230@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-DESCRIPTION: De VI die infra octavam Nativitatis Domini \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+DESCRIPTION: De VI die infra octavam Nativitatis Domini \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weihnachtsoktav (Hl. Papst Silvester I.)
-UID:Liturgiekalender_20261231@introibo.net
+SUMMARY:Weihnachtsoktav (Silvester)
+UID:Liturgiekalender_20271231@introibo.net
 STATUS:CONFIRMED
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DESCRIPTION: De VII die infra octavam Nativitatis Domini, Commemoratio S. Silvestri I Papæ et Conf. \n 2. Klasse, Farbe: weiß
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+DESCRIPTION: De VII die infra octavam Nativitatis Domini, Commemoratio S. Silvestri I Papæ et Conf. \n 2. Klasse, Farbe: weiss
 URL:https://introibo.net/kalender.php
 END:VEVENT
 END:VCALENDAR
