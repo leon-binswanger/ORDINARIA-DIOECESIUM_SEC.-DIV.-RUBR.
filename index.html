@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Opus veteris ordinis</title>
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/ical.js@1.5.0/build/ical.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.15/index.global.min.js"></script>
+  <style>
+    html, body { height: 100%; margin: 0; }
+    body {
+      font-family: sans-serif;
+      padding: 10px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+    }
+    #auswahl { font-size: 16px; padding: 4px; margin-bottom: 10px; align-self: flex-start; }
+    #cal { flex: 1; min-height: 0; }
+    dialog { max-width: 500px; border: 1px solid #999; border-radius: 8px; padding: 20px; }
+    #dlg-text { white-space: pre-line; }
+
+    /* Termine, die nicht zum angezeigten Monat gehören */
+    .fremder-monat { opacity: 0.35; filter: grayscale(1); }
+  </style>
+</head>
+<body>
+  <select id="auswahl"></select>
+  <div id="cal"></div>
+
+  <dialog id="dlg">
+    <h3 id="dlg-title"></h3>
+    <p id="dlg-text"></p>
+    <button onclick="document.getElementById('dlg').close()">Schließen</button>
+  </dialog>
+
+  <script>
+    // Hier trägst du deine Kalender ein: Anzeigename und Dateiname
+    const kalender = [
+      { name: "Divino Afflatu - 1954", datei: "O.D.-AUGUSTANAE_SEC.-RUBR.-A.D.-MCMLIV.ics" },
+      { name: "Rubrics 1960 - 1960", datei: "O.D.-AUGUSTANAE_SEC.-RUBR.-A.D.-MCMLX.ics" }
+    ];
+
+    const auswahl = document.getElementById('auswahl');
+    kalender.forEach((k, i) => auswahl.add(new Option(k.name, i)));
+
+    // Letzte Auswahl merken, damit sie nach dem Neuladen bleibt
+    try {
+      const gemerkt = localStorage.getItem('kalenderAuswahl');
+      if (gemerkt !== null && kalender[gemerkt]) auswahl.value = gemerkt;
+    } catch (e) {}
+
+    const cal = new FullCalendar.Calendar(document.getElementById('cal'), {
+      initialView: 'dayGridMonth',
+      locale: 'de',
+      firstDay: 1,
+      initialDate: '2026-01-01',
+      height: '100%',
+      fixedWeekCount: true,
+      dayMaxEvents: true,
+      eventClick: function(info) {
+        info.jsEvent.preventDefault();
+        document.getElementById('dlg-title').textContent = info.event.title;
+        document.getElementById('dlg-text').textContent =
+          info.event.extendedProps.description || 'Keine Beschreibung vorhanden.';
+        document.getElementById('dlg').showModal();
+      },
+      eventDidMount: function(info) {
+        info.el.title = info.event.extendedProps.description || '';
+        // Ausgrauen, wenn der Termin außerhalb des angezeigten Monats liegt
+        const start = info.event.start;
+        if (start < info.view.currentStart || start >= info.view.currentEnd) {
+          info.el.classList.add('fremder-monat');
+        }
+      }
+    });
+    cal.render();
+
+    function laden() {
+      cal.getEventSources().forEach(s => s.remove());
+      cal.addEventSource({ url: kalender[auswahl.value].datei, format: 'ics' });
+      try { localStorage.setItem('kalenderAuswahl', auswahl.value); } catch (e) {}
+    }
+    auswahl.addEventListener('change', laden);
+    laden();
+  </script>
+</body>
+</html>
